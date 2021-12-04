@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","root","filter_time");
+$conn = mysqli_connect("localhost","root","","database");
 
 	
 
